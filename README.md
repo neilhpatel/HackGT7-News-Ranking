@@ -1,5 +1,5 @@
 # HackGT7-News-Ranking
-HackGT7 News Ranking Algorithm Repository
+HackGT7 News Ranking Algorithm Repository - in collaboration with Andrew Ouyang, Daniar Tabys, and Matthew Gebara
 
 The .ipynb file takes in a user topic as input and scrapes news articles from [MediaCloud API](https://github.com/mediacloud/api-client). It then ranks 50 of the most relevant articles based on these 5 metrics:
 - Sentiment Analysis
